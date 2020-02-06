@@ -1,0 +1,23 @@
+{
+  "name": "@telegraf/core",
+  "version": "1.0.0",
+  "description": "Next generation Telegraf",
+  "main": "Telegraf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "engines": {
+    "node": ">=13.5"
+  },
+  "repository": "github:ejnshtein/telegraf-core",
+  "author": "ejnshtein",
+  "license": "MIT",
+  "typings": "./typings/index.d.ts",
+  "dependencies": {
+    "telegraf": "^3.36.0"
+  },
+  "devDependencies": {
+    "standard": "^14.3.1"
+  }
+}
