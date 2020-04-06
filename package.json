@@ -1,6 +1,6 @@
 {
   "name": "@telegraf/core",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Next generation Telegraf",
   "main": "index.js",
   "scripts": {
@@ -15,9 +15,9 @@
   "license": "MIT",
   "typings": "./typings/index.d.ts",
   "dependencies": {
-    "telegraf": "^3.36.0"
+    "telegraf": "^3.37.0"
   },
   "devDependencies": {
-    "standard": "^14.3.1"
+    "standard": "^14.3.3"
   }
 }

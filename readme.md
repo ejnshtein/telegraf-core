@@ -1,6 +1,6 @@
 # @telegraf/core
 
-[![node](https://img.shields.io/node/v/telegraf-esm.svg?style=flat-square)](https://www.npmjs.com/package/@telegraf/core)
+[![node](https://img.shields.io/node/v/@telegraf/core.svg?style=flat-square)](https://www.npmjs.com/package/@telegraf/core)
 [![Telegraf Version](https://img.shields.io/badge/Telegraf-3.36.0-f36caf.svg?style=flat-square)](https://telegraf.js.org)
 
 This is modern version of [Telegraf](https://telegraf.js.org) Bot Framework for [Telegram](https://telegram.org).  
