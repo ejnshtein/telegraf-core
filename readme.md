@@ -16,6 +16,14 @@ Future features:
 \* When it will actually be rewritten.
 ## Installation
 
+Currently in order to use this package, you should install telegraf first. 
+
+```
+npm i telegraf@latest // Latest version is recommended.
+```
+
+And now we can install our wrapper
+
 ```
 $ npm install @telegraf/core
 ```
@@ -23,7 +31,6 @@ or using `yarn`:
 ```
 $ yarn add @telegraf/core
 ```
-
 
 ## Usage
 
